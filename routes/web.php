@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/contact-me', function () {
     return view('contact-me');
 });
+
+Route::get('/easter-egg', function () {
+    return view('easter-egg');
+});
