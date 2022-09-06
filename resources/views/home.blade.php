@@ -11,6 +11,7 @@
         <h1>Hello World</h1>
         <h2>With Laravel</h2>
         <p>By RJMP</p>
+        <a href="/contact-me">Contact-me</a>
         <img src="https://avatars.githubusercontent.com/u/103038036?v=4" alt="">
     </main>
 </body>
